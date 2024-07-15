@@ -2,6 +2,9 @@
 
 ## Development environment
 Evaluation Boards: STM32F407G-DISC1
+
 IDE: STM32CubeIDE
+
 OS: FreeRTOS
+
 Language: C
